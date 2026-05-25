@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-chno="101",tvg-id="BBCOne.uk@London",tvg-logo="/mediafs/live/cl/bbcone.png",BBC One London (1080p)
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
